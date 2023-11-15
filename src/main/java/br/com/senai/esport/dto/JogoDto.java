@@ -8,6 +8,7 @@ public class JogoDto {
 	private String nome;
 	private String plataforma;
 	
+	
 	public JogoDto() {
 		super();
 	}
